@@ -39,7 +39,8 @@ Here's a sample "posts list".
 </ul>
 
 ## To-Do
-
+<iframe src="http://ghbtns.com/github-btn.html?user=deng19891006&repo=deng19891006.github.io&type=fork"
+  allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
