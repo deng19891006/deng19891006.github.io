@@ -50,6 +50,10 @@ body {
   font-size: 1em;
   line-height: 1.4;
   -webkit-tap-highlight-color: rgba(255, 0, 0, 0.62);
+  background: url('skin/100-90-5-monochrome.png');
+  background-repeat: repeat;
+  background-position: 0 0;
+  background-color: #e2e2de;
 }
 body,
 button,
